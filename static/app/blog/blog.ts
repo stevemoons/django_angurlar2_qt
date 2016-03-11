@@ -9,3 +9,8 @@ export class BlogComponent {
     test = "test";
 }
 
+//export interface Hero {
+//    id: number;
+//    name: string;
+//    test: string;
+//}
